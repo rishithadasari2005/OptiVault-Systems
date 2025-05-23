@@ -123,8 +123,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## 📄 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## 📫 Contact
-- **Maintainer**: Rishitha Dasari
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Issues**: [GitHub Issues](https://github.com/rishithadasari2005/OptiVault-Systems/issues)
-
