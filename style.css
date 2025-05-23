@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: url("./atm-screen-automated-teller-machine-monitor.jpg") no-repeat
+    center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.atm-screen {
+  position: absolute;
+  top: 24%;
+  left: 18%;
+  width: 36%;
+  height: 50%;
+  background: #000000;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: inset 0 0 10px rgba(0, 255, 0, 0.5);
+  border: 3px solid #0f0;
+  color: #0f0;
+  font-family: "Courier New", monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+input,
+button {
+  width: 80%;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+input {
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+}
+button {
+  background: #28a745;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  background: #218838;
+}
+h3 {
+  margin-top: 10px;
+}
